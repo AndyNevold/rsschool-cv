@@ -25,7 +25,7 @@ Well-organized and efficient professional with strong communication skills and s
 
 ### Education
 
-**Belarusian State University** | Faculty of Mathematics
+**Belarusian State University** -Faculty of Mathematics
 
 ### English
 
