@@ -2,9 +2,9 @@
 
 ### Contacts
 
-Phone: +375296707241
-Email: andynevold@gmail.com
-Telegram: @AndyNevold
+- **Phone**: +375296707241
+- **Email**: andynevold@gmail.com
+- **Telegram**: @AndyNevold
 
 ### About Me
 
