@@ -30,9 +30,3 @@ Well-organized and efficient professional with strong communication skills and s
 ### English
 
 **A2 (Pre-Intermediate)** - Technical documentation reading, basic communication. Actively improving through courses and practice.
-
-# rsschool-cv
-
-[CV](https://andynevold.github.io/rsschool-cv/cv)
-
-[CV HTML](https://andynevold.github.io/rsschool-cv)
